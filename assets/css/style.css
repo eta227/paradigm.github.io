@@ -136,7 +136,6 @@ body {
 }
 
 .head {
-    min-height: 100vh;
     background-color: #fff;
     position: relative;
     background-position: bottom;
